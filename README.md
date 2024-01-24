@@ -28,3 +28,4 @@ Technologies Used:
 - Flask Framework
 - MongoDB
 - JWT (JSON Web Tokens)
+- Postman
